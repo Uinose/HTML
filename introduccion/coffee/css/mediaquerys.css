@@ -38,7 +38,7 @@
 }
 /*imprimir*/
 @media print {
-    header{
+    {
         display: none;
     }
 }
